@@ -1,0 +1,16 @@
+.locations {
+    display: flex;
+    flex-direction: column;
+}
+.location {
+    background: lightgoldenrodyellow;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+.locationHeader {
+    font-size: large;
+    font-weight: bold;
+}

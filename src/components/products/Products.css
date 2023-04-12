@@ -1,0 +1,26 @@
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.product {
+    background: lightpink;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+    width: 200px;
+}
+
+.productName{
+    font-size: medium;
+    font-weight: bold;
+}
+
+.buttons {
+    margin: 2px
+}
+
+.search {
+    width: 300px;
+}
