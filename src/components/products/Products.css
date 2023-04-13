@@ -24,3 +24,9 @@
 .search {
     width: 300px;
 }
+
+.purchaseButton {
+    background-color: darkred;
+    color: white;
+    font-size: xx-small;
+}

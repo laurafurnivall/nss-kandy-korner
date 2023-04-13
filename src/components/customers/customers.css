@@ -23,3 +23,8 @@
     font-size: small;
     padding: 5px 0px 0px 0px;
 }
+
+.number-control {
+    width: 200px;
+    margin: 5px
+}
